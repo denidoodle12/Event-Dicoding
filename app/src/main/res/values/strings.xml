@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MySubmissionAndro</string>
+    <string name="event_name">Event Name</string>
+    <string name="imageMediaCover">Media Cover Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity">MainActivity</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="content_desc_imgDetail">Image for Detail Activity</string>
+    <string name="detail_eventName">Event Name</string>
+    <string name="detail_ownerName">Owner Name</string>
+    <string name="title_beginTime">Begin Time</string>
+    <string name="detail_beginTime">Begin Time</string>
+    <string name="title_endTime">End TIme</string>
+    <string name="content_desc_icBeginTime">This is icon for begin time</string>
+    <string name="content_desc_icEndTime">This is icon for end time</string>
+    <string name="detail_endTime">End Time</string>
+    <string name="title_description">Description</string>
+    <string name="detail_description">Detail Description</string>
+    <string name="title_remainingQuota">Remaining Quota</string>
+    <string name="content_desc_icPerson">This is icon for remaining quota</string>
+    <string name="detail_remainingQuota">Remaining Quota</string>
+    <string name="registration">Registration</string>
+    <string name="content_desc_fabFavorite">This is icon for fab favorite</string>
+    <string name="title_headingHome">"Discover the Best\nEvent in Dicoding "</string>
+    <string name="title_welcomeHome">Welcome to</string>
+    <string name="hint_homeSearchBar">Search event here</string>
+    <string name="title_banner">Lets Find\nThe Dicoding Event</string>
+    <string name="title_HomeUpcoming">Explore Upcoming Event</string>
+    <string name="title_seeMoreUpcoming">See More</string>
+    <string name="title_dicoding">Dicoding Academy</string>
+    <string name="img_banner">This is image for banner in home page</string>
+    <string name="title_HomeFinished">Explore Finished Event</string>
+    <string name="title_seeMoreFinished">See More</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="switch_mode">Switch Mode</string>
+    <string name="title_enable_dark_mode">Enable Dark Mode</string>
+    <string name="save_bookmark">Save Bookmark</string>
+    <string name="info">No favorite events available</string>
+</resources>
